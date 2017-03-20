@@ -22,4 +22,4 @@ github_username:  jekyll
 markdown: kramdown
 
 theme: jekyll-theme-cayman
-baseurl:http://localhost:4000
+
